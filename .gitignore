@@ -1,0 +1,6 @@
+.openai/
+.vercel/
+tmp/
+*.log
+Thumbs.db
+.DS_Store
